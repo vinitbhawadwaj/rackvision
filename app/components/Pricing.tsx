@@ -1,4 +1,4 @@
-'use client'; // For React state (app router)
+'use client';
 
 import { useState } from 'react';
 
